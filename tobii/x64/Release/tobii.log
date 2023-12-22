@@ -1,0 +1,14 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  main.cpp
+D:\tobii\tobii\tobii\main.cpp(44,45): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\tobii\tobii\tobii\main.cpp(45,45): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\tobii\tobii\tobii\main.cpp(108,46): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\tobii\tobii\tobii\main.cpp(109,46): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\tobii\tobii\tobii\main.cpp(217,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\tobii\tobii\tobii\main.cpp(224,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  1 of 941 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  tobii.vcxproj -> D:\tobii\tobii\x64\Release\tobii.exe

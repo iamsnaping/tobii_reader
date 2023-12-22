@@ -1,0 +1,12 @@
+﻿  main.cpp
+main.obj : error LNK2019: 无法解析的外部符号 __imp__tobii_api_create，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp__tobii_api_destroy，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp__tobii_enumerate_local_device_urls，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp__tobii_wait_for_callbacks，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp__tobii_device_create，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp__tobii_device_destroy，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp__tobii_device_process_callbacks，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp__tobii_gaze_point_subscribe，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp__tobii_gaze_point_unsubscribe，函数 _main 中引用了该符号
+tobii_stream_engine.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\Users\Administrator\source\repos\tobii\Debug\tobii.exe : fatal error LNK1120: 9 个无法解析的外部命令
